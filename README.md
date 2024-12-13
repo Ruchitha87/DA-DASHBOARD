@@ -15,7 +15,7 @@ The Sales on North America wants to create a date wise, monthly wise and annual 
 - Analysis of 52W H and 52W L - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Analysisof52wh%2652wl.pdf">Click here to Review</a>
 - Estimate the Volume Total,Close Total and Open total - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/VolumeCloseOpentotals.pdf">Click here to Review</a>
 - Which month has the highest number of trades - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Numberoftrades.pdf">CLick here to Review</a>
-- Dashboard Interaction <a href=" ">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Ruchitha87/DA-DASHBOARD/blob/main/sales%20dashboard%20DA%20Project.pbit ">View Dashboard</a>
 
 
 ### Process
