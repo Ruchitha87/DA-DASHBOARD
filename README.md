@@ -1,4 +1,4 @@
-# DA-DASHBOARD
+# RuchithaReddyMP_PunithKumarHR
 ## Sales-Data-Analysis (Interactive Dashboard creation using MS Excel and Power BI)
 We developed a comprehensive project in Excel, Power BI. Creating  dashboards and tables to analyze the data. This process involved several stages including data processing, data cleaning and data visualization.
 
@@ -9,12 +9,12 @@ The Sales on North America wants to create a date wise, monthly wise and annual 
 - <a href="https://github.com/Ruchitha87/DA-DASHBOARD/blob/main/da.xls">Dataset</a>
 
 ### Questions(KPI's)
-- Analyse Sum of Volume By Month - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Sumofvolume.pdf "> Click here to Review</a>
-- Which month got the highest Sum of Volume -<a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Highestsumofvolume.pdf"> Click here to Review</a>
-- Which month got the least Sum of Volume - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Leastsumofvolume.pdf">Click here to Review</a>
-- Analysis of 52W H and 52W L - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Analysisof52wh%2652wl.pdf">Click here to Review</a>
-- Estimate the Volume Total,Close Total and Open total - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/VolumeCloseOpentotals.pdf">Click here to Review</a>
-- Which month has the highest number of trades - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Numberoftrades.pdf">CLick here to Review</a>
+- Analyse avarage profits state wise - <a href="https://github.com/Ruchitha87/DA-DASHBOARD/blob/main/avgprofitsstatewise.pdf "> Click here to Review</a>
+- Which region got highest profits? -<a href="https://github.com/Ruchitha87/DA-DASHBOARD/blob/main/sumofprofitregionwise.pdf"> Click here to Review</a>
+- Which category got hishest sales? - <a href="https://github.com/Ruchitha87/DA-DASHBOARD/blob/main/salesaccortocategorywise.pdf">Click here to Review</a>
+- Analysis of which type of products got highest profits - <a href="https://github.com/Ruchitha87/DA-DASHBOARD/blob/main/sumofprofitsaccotocustomers.pdf">Click here to Review</a>
+- analysing payment modes - <a href="https://github.com/Ruchitha87/DA-DASHBOARD/blob/main/sumofprofitsaccordingtopaymentmodes.pdf">Click here to Review</a>
+- which category has higest margin - <a href="https://github.com/Ruchitha87/DA-DASHBOARD/blob/main/salesaccortocategorywise.pdf">CLick here to Review</a>
 - Dashboard Interaction <a href="https://github.com/Ruchitha87/DA-DASHBOARD/blob/main/sales%20dashboard%20DA%20Project.pbit ">View Dashboard</a>
 
 
@@ -25,15 +25,13 @@ The Sales on North America wants to create a date wise, monthly wise and annual 
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ### Dashboard 
-![Screenshot (50)](https://github.com/user-attachments/assets/2a178a4b-5f50-45cb-860c-81c667e70c3e)
+![Screenshot (50)](https://github.com/Ruchitha87/DA-DASHBOARD/blob/main/Screenshot%202024-12-13%20143442.png)
 
 ## Project Insights
-- Average of 52 week High : 1.70K
-- Average of 52 week Low : 1.14K
-- Volume Total : 22bn
-- Open Total : 5.06M
-- Close Total : 5.05M
+- Overall Profit : $ 175262.1059
+- sum of profit(2019) :$ 81813.5851
+- sum of profit(2020) : $ 93448.5208
+  
 
 ## Final Conclusion
-To improve the trades of reliance, a strategic marketing plan focused on increasing number of trades by analysing 52 weeks ups and down strikes. Reliance Industries demonstrated resilience and growth from past 13 years drive, but it's robust diversification strategy across energy, retail and telecom sectors. The stock's performance reflected strong fundamentals, with sustainable investments. Looking ahead to 2025, the company is composed for further expansion, should monitor macroeconomic factors and selector-specific risks.
-
+To improve the trades of north america, a strategic marketing plan focused on targeting number of customers by analysing weekly ups and down strikes.Sales of particular region is not good in certain months, It has to be focused to improve marketing and increasing margin for thier business. Comparing to past year sales hae been increased in the recent year, that shows they have done good job in marketing.
