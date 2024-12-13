@@ -6,7 +6,7 @@ We developed a comprehensive project in Excel, Power BI. Creating  dashboards an
 The Sales on North America wants to create a date wise, monthly wise and annual wise trade report. So that, the owner can understand their customers and grow more sales in 2024 and 2025.
 
 ### Dataset used
-- <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Reliance%20Data%20Set.xlsx">Dataset</a>
+- <a href="https://github.com/Ruchitha87/DA-DASHBOARD/blob/main/da.xls">Dataset</a>
 
 ### Questions(KPI's)
 - Analyse Sum of Volume By Month - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Sumofvolume.pdf "> Click here to Review</a>
