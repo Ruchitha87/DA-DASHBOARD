@@ -1,6 +1,6 @@
 # DA-DASHBOARD
 ## Sales-Data-Analysis (Interactive Dashboard creation using MS Excel and Power BI)
-We developed a comprehensive project in Excel, Power BI. Creating multiple dashboards and tables to analyze the data. This process involved several stages including data processing, data cleaning and data visualization.
+We developed a comprehensive project in Excel, Power BI. Creating  dashboards and tables to analyze the data. This process involved several stages including data processing, data cleaning and data visualization.
 
 ### Project Objective
 The Sales on North America wants to create a date wise, monthly wise and annual wise trade report. So that, the owner can understand their customers and grow more sales in 2024 and 2025.
